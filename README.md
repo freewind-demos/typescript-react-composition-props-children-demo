@@ -1,5 +1,5 @@
-JavaScript React Hello World Demo
-=================================
+TypeScript React Composition "props.children" Demo
+==================================================
 
 ```
 npm install
